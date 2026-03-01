@@ -1,4 +1,8 @@
 {
+    "name": [
+        null,
+        "Name: "
+    ],
     "money": [
         10,
         "Money: "
@@ -12,8 +16,8 @@
         "Bank: "
     ],
     "loan_time": [
-        0,
-        "Time On Loan: "
+        null,
+        "Time Left On Loan: "
     ],
     "day": [
         0,
